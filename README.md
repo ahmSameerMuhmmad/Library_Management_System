@@ -1,5 +1,4 @@
 # Library_Management_System
-# Library Management System
 
 ## Table of contents
 
